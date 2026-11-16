@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cz.pulse.mtb",
+      "sha256_cert_fingerprints": [
+        "32:76:C4:E7:FC:7F:B6:5F:F9:8E:EB:5E:96:DA:78:8D:63:72:5B:6E:34:28:94:0F:9A:36:1B:40:D5:B1:1D:BA"
+      ]
+    }
+  }
+]
